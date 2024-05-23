@@ -1,0 +1,13 @@
+perchè,mangi,0.5,sempre,0.5
+mangi,banane,0.5,?,0.5
+banane,con,0.5,le,0.5
+con,le,0.6667,ì,0.3333
+le,ì,0.2000,banane,0.2000,spargi,0.2000,mangi,0.2000,ù,0.2000
+ì,accentate,0.5,se,0.5
+accentate,se,1
+se,poi,1
+poi,le,0.5,con,0.5
+spargi,le,1
+?,perchè,1
+sempre,con,1
+ù,?,1
